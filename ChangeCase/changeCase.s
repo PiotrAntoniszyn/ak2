@@ -6,7 +6,7 @@ SYSWRITE = 4
 SYSEXIT = 1
 EXIT_SUCCESS = 0
 BUFLEN = 512
-KONIEC_LINII = 0xA
+
 
 .bss
 .comm textin, 512
